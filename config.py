@@ -14,11 +14,11 @@ BOT_TOKEN = ("8462016049:AAFc616pDsbIHi_9oznM5Of8skNyBLhu1VI")
 OWNER_ID = ("7654385403")
 OWNER_USERNAME = ("EternalsHelplineBot")
 BOT_USERNAME = ("PhrolovaXRobot")
-BOT_NAME = ("Phrolova Music Bot")
-ASSUSERNAME = ("Phrolova Assistant")
+BOT_NAME = ("Albedo Music")
+ASSUSERNAME = ("Albedo Assistant")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
-MONGO_DB_URI = ("BQG-QCUADnnVXVuveX6LuoqnxCBIwhra6bW8KLvSTOwc2-eKJ9YrIhMVaJs9Pb4s2kDOmHC0Eqn18Hh23ThKA5CPS7vOguAFGMZvwnqrmutfh6r8vx6-8QJH3LL_oyIRDzURtds2DOTEsbcyLnu-nJti4h7wN4HyNCeB78ZYy213LLhD_iC3f8O6SYgtGhhWGxb6yIwnZXTxeK2wBWpvyFVRWBFvxXz33BX411WgFlgQ1dDwKHCBqXGN7vqlcQ9nXXAFz13z7HFyKhguBb6P48NDAa9YIVu7P-R1iJUv4nnMZ8AAwiDdFUdP7L7jELIdJNnVcQ9nynY3ngCisAunj7Zuse8djgAAAAHjIGUMAA")
+MONGO_DB_URI = ("mongodb+srv://musicxrobot:8Up92WwJbgUS39FV@cluster0.ys1jirt.mongodb.net/")
 LOGGER_ID = (-1002456565415)
 
 # ── Limits (durations in min/sec; sizes in bytes) ──────────────────────────────
