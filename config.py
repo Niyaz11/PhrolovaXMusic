@@ -9,7 +9,7 @@ load_dotenv()
 # ── Core bot config ────────────────────────────────────────────────────────────
 API_ID = ("29245477")
 API_HASH = ("0abc83883262245c90ca337b7a0375c4")
-BOT_TOKEN = ("")
+BOT_TOKEN = ("8462016049:AAFc616pDsbIHi_9oznM5Of8skNyBLhu1VI")
 
 OWNER_ID = ("7654385403")
 OWNER_USERNAME = ("EternalsHelplineBot")
@@ -18,7 +18,7 @@ BOT_NAME = ("Phrolova Music Bot")
 ASSUSERNAME = ("Phrolova Assistant")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
-MONGO_DB_URI = ("")
+MONGO_DB_URI = ("BQG-QCUADnnVXVuveX6LuoqnxCBIwhra6bW8KLvSTOwc2-eKJ9YrIhMVaJs9Pb4s2kDOmHC0Eqn18Hh23ThKA5CPS7vOguAFGMZvwnqrmutfh6r8vx6-8QJH3LL_oyIRDzURtds2DOTEsbcyLnu-nJti4h7wN4HyNCeB78ZYy213LLhD_iC3f8O6SYgtGhhWGxb6yIwnZXTxeK2wBWpvyFVRWBFvxXz33BX411WgFlgQ1dDwKHCBqXGN7vqlcQ9nXXAFz13z7HFyKhguBb6P48NDAa9YIVu7P-R1iJUv4nnMZ8AAwiDdFUdP7L7jELIdJNnVcQ9nynY3ngCisAunj7Zuse8djgAAAAHjIGUMAA")
 LOGGER_ID = (-1002456565415)
 
 # ── Limits (durations in min/sec; sizes in bytes) ──────────────────────────────
@@ -63,7 +63,7 @@ SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "22b6125bfe224587b722d6815002db2
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "c9c63c6fbf2f467c8bc68624851e9773")
 
 # ── Session strings (optional) ─────────────────────────────────────────────────
-STRING1 = ""
+STRING1 = "mongodb+srv://musicxrobot:8Up92WwJbgUS39FV@cluster0.ys1jirt.mongodb.net/"
 STRING2 = getenv("STRING_SESSION2")
 STRING3 = getenv("STRING_SESSION3")
 STRING4 = getenv("STRING_SESSION4")
