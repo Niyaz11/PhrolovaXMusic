@@ -9,7 +9,7 @@ load_dotenv()
 # ── Core bot config ────────────────────────────────────────────────────────────
 API_ID = ("29245477")
 API_HASH = ("0abc83883262245c90ca337b7a0375c4")
-BOT_TOKEN = ("")
+BOT_TOKEN = ("8332591756:AAHXVYwKpjsnt4uCz26MZ5ql16xtxWoXD_k")
 
 OWNER_ID = ("7654385403")
 OWNER_USERNAME = ("EternalsHelplineBot")
@@ -18,7 +18,7 @@ BOT_NAME = ("Albedo Music")
 ASSUSERNAME = ("Albedo Assistant")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
-MONGO_DB_URI = ("")
+MONGO_DB_URI = ("mongodb+srv://phrolovaxrobot:p0SFEz825QuqzwTi@cluster0.sy26fqm.mongodb.net/?retryWrites=true&w=majority")
 LOGGER_ID = (-1002456565415)
 
 # ── Limits (durations in min/sec; sizes in bytes) ──────────────────────────────
